@@ -2,8 +2,8 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-header_pages:
-  - index.md
+#header_pages:
+#  - index.md
 #  - about.md
 
 footer: 'follow us on <a href="https://github.com/fur2">Github</a>'
