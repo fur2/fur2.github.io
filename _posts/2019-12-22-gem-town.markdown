@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dear morons..."
-date:   2018-11-04 12:32:45 +0100
-categories:
+title:  "游戏：宝石镇"
+date:   2019-12-22
+categories:游戏
 ---
 
 # Dear morons...
