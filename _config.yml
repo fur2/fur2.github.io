@@ -1,10 +1,22 @@
+title: 'b2a3e8.github.io'
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: "/fur2"
+url: "https://fur2.github.io"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
+
+
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
-
-#header_pages:
-#  - index.md
-#  - about.md
 
 footer: 'follow us on <a href="https://github.com/fur2">Github</a>'
 
