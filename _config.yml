@@ -2,7 +2,6 @@ description: "一个兽迷 furry 的主页"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
 
