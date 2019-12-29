@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gem Town"
+title:  "游戏：宝石镇"
 date:   2019-12-22
 categories:
 ---
